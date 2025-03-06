@@ -1,1 +1,4 @@
 # MatrixCalculater
+Swiftを用いて作成した行列計算アプリです。
+成果物.pdfの中に仕様が書いてあります。
+MyMatrixCalculaterのディレクトリがプロジェクトのソースコードになります。
